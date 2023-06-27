@@ -19,20 +19,27 @@ public class Test31 {
         //接收字符
         StringBuilder sb = new StringBuilder();
         int ch;
-        while ((ch = fr.read()) != -1)
-        {
+        while ((ch = fr.read()) != -1) {
 //           字符拼接
             sb.append((char) ch);
         }
         fr.close();
 
+        //排序
         Integer[] arr = Arrays.stream(sb.toString()
                         .split("-"))
                 .map(Integer::parseInt)
                 .sorted()
                 .toArray(Integer[]::new);
 
-
-
+        //写出
+        FileWriter fw = new FileWriter("IO\\r.txt");
+        String s = Arrays.toString(arr).replace(", ", "-");
+        //System.out.println(s);//[2-4-5-6-9]
+        //截取
+        String result = s.substring(1, s.length() - 1);
+//        System.out.println(result);
+        fw.write(result);
+        fw.close();
     }
 }
