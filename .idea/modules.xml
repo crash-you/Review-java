@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/File/File.iml" filepath="$PROJECT_DIR$/File/File.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileMethod/FileMethod.iml" filepath="$PROJECT_DIR$/FileMethod/FileMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO/IO.iml" filepath="$PROJECT_DIR$/IO/IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JiCheng/JiCheng.iml" filepath="$PROJECT_DIR$/JiCheng/JiCheng.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JiCheng2/JiCheng2.iml" filepath="$PROJECT_DIR$/JiCheng2/JiCheng2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodCite/MethodCite.iml" filepath="$PROJECT_DIR$/MethodCite/MethodCite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Review-java.iml" filepath="$PROJECT_DIR$/.idea/Review-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stream/stream.iml" filepath="$PROJECT_DIR$/stream/stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yichang/yichang.iml" filepath="$PROJECT_DIR$/yichang/yichang.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../FileMethod/FileMethod.iml" filepath="$PROJECT_DIR$/../FileMethod/FileMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../IO/IO.iml" filepath="$PROJECT_DIR$/../IO/IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MethodCite/MethodCite.iml" filepath="$PROJECT_DIR$/../MethodCite/MethodCite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../stream.iml" filepath="$PROJECT_DIR$/../stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../yichang/yichang.iml" filepath="$PROJECT_DIR$/../yichang/yichang.iml" />
+    </modules>
+  </component>
+</project>
